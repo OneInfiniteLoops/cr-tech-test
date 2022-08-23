@@ -4,7 +4,7 @@
   "description": "We appreciate tech tests can often be daunting, too specific, or un-relevant. To address this, we have tried to make these tests relevant to real-world situations and engagements that our QCEs may face every day.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
